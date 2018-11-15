@@ -1,0 +1,6 @@
+coloredlogs==10.0
+tqdm==4.19.5
+Scrapy==1.3.2
+w3lib==1.17.0
+parsel==1.1.0
+furl==2.0.0
